@@ -1,1 +1,2 @@
-This is a script file
+// This is a script file
+let a = 100;
